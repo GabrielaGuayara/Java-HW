@@ -21,12 +21,12 @@ public class Polidrome {
 		
 	
 	if(strinp.equals(reverstr)) 
-	{
 		System.out.println("The word "+strinp+ " is a palidrome");
-	}
-	else {
+	
+	else 
 		System.out.println("The word "+strinp+ " is NOT a palidrome");
-	}
+	
+	
 	}
 
 }

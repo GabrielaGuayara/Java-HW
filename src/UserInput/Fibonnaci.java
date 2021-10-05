@@ -7,7 +7,6 @@ public class Fibonnaci {
 		
 		Scanner inp = new Scanner(System.in);
 		
-	
 		System.out.println("Enter a number a star number: ");
 		int inp1 = inp.nextInt();
 
